@@ -1,0 +1,14 @@
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\bin\Debug\eMailer.exe.config
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\bin\Debug\eMailer.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\bin\Debug\eMailer.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\bin\Debug\eMailer.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\obj\Debug\eMailer.frmMain.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\obj\Debug\eMailer.Resources.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\obj\Debug\eMailer.vbproj.GenerateResource.Cache
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\obj\Debug\eMailer.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\obj\Debug\eMailer.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\obj\Debug\eMailer.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\bin\Debug\eMailer.exe.manifest
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\bin\Debug\eMailer.application
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\obj\Debug\eMailer.exe.manifest
+c:\users\jonathan\documents\visual studio 2015\Projects\eMailer\eMailer\obj\Debug\eMailer.application
